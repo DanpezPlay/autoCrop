@@ -5,6 +5,7 @@ Image.MAX_IMAGE_PIXELS = None
 def crop(image_path):
 
     # coords and saved_location
+    # Other commetn
 
     image_obj = Image.open(image_path)
 
